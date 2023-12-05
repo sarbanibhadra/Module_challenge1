@@ -1,2 +1,2 @@
 # Module_challenge1
-For challenge 1 works
+This is a repository created as part of submission of module 1 challenge work. The repository contains code changes related to increase accesibility of the website.
